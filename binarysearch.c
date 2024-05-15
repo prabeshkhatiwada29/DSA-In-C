@@ -1,9 +1,5 @@
  #include <stdio.h>
-
-// Function to perform binary search
 int binary_search(int arr[], int size, int target);
-
-// Function to perform bubble sort
 void bubble_sort(int arr[], int size);
 
 int main() {
